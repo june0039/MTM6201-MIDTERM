@@ -312,14 +312,6 @@ h6{
 }
     
 
-
-
-/* Clears content when resizing in rows
-.row::after{
-    content:"";
-    clear: both;
-    display:block;
-}
 /* Adjusts atrributes for screen size for Tablet*/
 @media screen and (min-width: 600px){
  main{
