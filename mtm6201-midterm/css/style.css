@@ -171,7 +171,7 @@ color:#0C0F0A;
 /* Affects any image element in the program*/
 img{
     border: solid 0.5rem #FFEE88;
-    image-rendering:optimizeQuality;
+    
 }
 
 /* Changes attributes to image in logo class removes a border on specified images*/ 
